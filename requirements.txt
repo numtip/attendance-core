@@ -1,0 +1,8 @@
+# Runtime
+PyYAML>=6.0
+
+# Local editable install (this repo)
+-e .
+
+# Test / dev
+pytest>=8.0
